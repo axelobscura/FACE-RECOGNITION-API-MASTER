@@ -1,0 +1,7 @@
+version '3.6'
+
+services:
+  smart-brain-api:
+    container_name: backend
+    image: node:carbon
+    
